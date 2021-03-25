@@ -2,7 +2,11 @@ Rencana Konten Argya
 - mau buat video mengenai Javascript
 *ES6
 *Framework Javascript
+  > Vue
+  > React
 - Fundamental Data Structure
 - PHP Framework
+  > Laravel
 - Interview
 - Vlog
+- Phyton
